@@ -1,0 +1,14 @@
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\bin\Debug\net9.0\laçoWhile.exe
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\bin\Debug\net9.0\laçoWhile.deps.json
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\bin\Debug\net9.0\laçoWhile.runtimeconfig.json
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\bin\Debug\net9.0\laçoWhile.dll
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\bin\Debug\net9.0\laçoWhile.pdb
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\laçoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\laçoWhile.AssemblyInfoInputs.cache
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\laçoWhile.AssemblyInfo.cs
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\laçoWhile.csproj.CoreCompileInputs.cache
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\laçoWhile.dll
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\refint\laçoWhile.dll
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\laçoWhile.pdb
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\laçoWhile.genruntimeconfig.cache
+C:\Users\50055487858\Desktop\BackEnd\laçoWhile\obj\Debug\net9.0\ref\laçoWhile.dll
