@@ -1,0 +1,15 @@
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\bin\Debug\net9.0\agencia.exe
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\bin\Debug\net9.0\agencia.deps.json
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\bin\Debug\net9.0\agencia.runtimeconfig.json
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\bin\Debug\net9.0\agencia.dll
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\bin\Debug\net9.0\agencia.pdb
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\agencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\agencia.AssemblyInfoInputs.cache
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\agencia.AssemblyInfo.cs
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\agencia.csproj.CoreCompileInputs.cache
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\agencia.sourcelink.json
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\agencia.dll
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\refint\agencia.dll
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\agencia.pdb
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\agencia.genruntimeconfig.cache
+C:\Users\50055487858\Desktop\BackEnd_T\agencia\obj\Debug\net9.0\ref\agencia.dll
