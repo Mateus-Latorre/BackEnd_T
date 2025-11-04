@@ -25,11 +25,19 @@ namespace ClassesEObjetos
 
 
         }
-        public void Depositar()
+        public void Depositar(double deposito)
         {
             Console.WriteLine($"Quanto deseja depositar?");
-            Saldo += int.Parse(Console.ReadLine());
-            Console.WriteLine($"Seu saldo atual é de R${Saldo}");
+            deposito = int.Parse(Console.ReadLine());
+            if (deposito > 0)
+            {
+                Saldo += deposito;
+                Console.WriteLine($"Seu saldo atual é de R${Saldo}");
+            }else
+            {
+                Console.WriteLine($"ERRO, o valor depositado precisa ser maior que zero ");
+                
+            }
         }
 
 

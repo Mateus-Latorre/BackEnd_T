@@ -128,7 +128,7 @@ do
             Console.WriteLine($"");
             Console.WriteLine($"");
             acao = int.Parse(Console.ReadLine());
-
+            int deposito = 0;
             switch (acao)
             {
                 case 0:
@@ -138,7 +138,7 @@ do
                     t1.Sacar();
                     break;
                 case 2:
-                    t1.Depositar();
+                    t1.Depositar(deposito);
                     break;
                 default:
                     Console.WriteLine($"ERRO, o comando escolhido não existe");
