@@ -30,6 +30,10 @@ namespace ExerciciosMetodoConstrutor
             Salario = s;
         }
 
+        public double calculaBonus() {
+        return Salario * 0.10;
+    }
+
         public void ExibirDados()
         {
             Console.WriteLine($"Nome: {Nome} | Cargo: {Cargo} | Salário: {Salario}");

@@ -112,9 +112,9 @@
 // a1.Media();
 // a2.Media();
 
-Funcionario f1 = new Funcionario("Mateus", "Administrador", 100);
-Funcionario f2 = new Funcionario("Stephanie", "Gerente");
-Funcionario f3 = new Funcionario("Bruno");
-f1.ExibirDados();
-f2.ExibirDados();
-f3.ExibirDados();
+// Funcionario f1 = new Funcionario("Mateus", "Administrador", 100);
+// Funcionario f2 = new Funcionario("Stephanie", "Gerente");
+// Funcionario f3 = new Funcionario("Bruno");
+// f1.ExibirDados();
+// f2.ExibirDados();
+// f3.ExibirDados();
