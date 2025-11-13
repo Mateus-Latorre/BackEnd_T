@@ -17,9 +17,11 @@ namespace Exemplos
 
         public override void Sacar(float valor)
         {
-            if (Saldo < 6.40f && valor > 0 && valor <= Saldo + 6.40f)
+            Console.WriteLine($"{valor * 1.01}");
+            
+            if (Saldo > valor * 1.01f && valor > 0 && valor <= Saldo + valor * 1.01f)
             {
-                Saldo -= valor + 6.40f;
+                Saldo -= valor * 1.01f;
                 Console.WriteLine($"Saldo {Saldo}");
             }
             else

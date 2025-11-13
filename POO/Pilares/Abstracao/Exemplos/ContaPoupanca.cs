@@ -17,21 +17,15 @@ namespace Exemplos
 
         public override void Sacar(float valor)
         {
-            if (Saldo > 5 && valor > 0 && valor < Saldo + 5)
+            if (Saldo > valor * 1.03f && valor > 0 && valor <= Saldo + valor * 1.03f)
             {
-                Saldo -= valor + 5f;
+                Saldo -= valor * 1.03f;
                 Console.WriteLine($"Saldo {Saldo}");
             }
             else
             {
-                Console.WriteLine("ERRO: O saldo e/ou o valor desejado não pode ser igual á zero");
+                Console.WriteLine("ERRO: O saldo e/ou o valor desejado não é suficiente");
             }
-
-        }
-        public void CalcularSaldo()
-        {
-            Saldo += 0.05f * Saldo;
-            Console.WriteLine($"Saldo {Saldo}");
 
         }
     }
