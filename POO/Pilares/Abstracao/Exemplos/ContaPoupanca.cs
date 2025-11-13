@@ -7,7 +7,7 @@ namespace Exemplos
             if (valor > 0)
             {
                 Saldo += valor;
-                Console.WriteLine($"Saldo {Saldo}");
+                Console.WriteLine($"Saldo atual de: R${Saldo}");
             }
             else
             {
@@ -20,7 +20,7 @@ namespace Exemplos
             if (Saldo > valor * 1.03f && valor > 0 && valor <= Saldo + valor * 1.03f)
             {
                 Saldo -= valor * 1.03f;
-                Console.WriteLine($"Saldo {Saldo}");
+                Console.WriteLine($"Saldo atual de: R${Saldo}");
             }
             else
             {
