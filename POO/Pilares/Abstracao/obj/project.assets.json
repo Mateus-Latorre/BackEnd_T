@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\50055487858\\Desktop\\BackEnd_T\\POO\\Pilares\\Heranca\\Herança.csproj",
-      "projectName": "Herança",
-      "projectPath": "C:\\Users\\50055487858\\Desktop\\BackEnd_T\\POO\\Pilares\\Heranca\\Herança.csproj",
+      "projectUniqueName": "C:\\Users\\50055487858\\Desktop\\BackEnd_T\\POO\\Pilares\\Abstracao\\Abstracao.csproj",
+      "projectName": "Abstracao",
+      "projectPath": "C:\\Users\\50055487858\\Desktop\\BackEnd_T\\POO\\Pilares\\Abstracao\\Abstracao.csproj",
       "packagesPath": "C:\\Users\\50055487858\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\50055487858\\Desktop\\BackEnd_T\\POO\\Pilares\\Heranca\\obj\\",
+      "outputPath": "C:\\Users\\50055487858\\Desktop\\BackEnd_T\\POO\\Pilares\\Abstracao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\50055487858\\AppData\\Roaming\\NuGet\\NuGet.Config"

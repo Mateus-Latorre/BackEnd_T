@@ -43,7 +43,7 @@
 // Idade: {p1.Idade}
 // Disciplina: {p1.Disciplina}");
 
-ContaPoupanca c1 = new ContaPoupanca();
-c1.Depositar();
-c1.Sacar();
-c1.CalcularRendimento();
+// ContaPoupanca c1 = new ContaPoupanca();
+// c1.Depositar();
+// c1.Sacar();
+// c1.CalcularRendimento();
