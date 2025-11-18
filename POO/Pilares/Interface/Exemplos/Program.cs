@@ -1,0 +1,13 @@
+﻿using Exemplos;
+// ControleRemoto controleTv = new ControleRemoto();
+// controleTv.Ligar();
+// controleTv.AumentarVolume();
+// controleTv.AumentarVolume();
+// controleTv.AumentarVolume();
+// controleTv.AumentarVolume();
+// controleTv.Desligar();
+Console.Clear();
+Carro carro= new Carro();
+carro.Acelerar();
+Moto moto= new Moto();
+moto.Acelerar();
