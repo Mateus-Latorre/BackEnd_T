@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Exercicios
+namespace Exercicio2
 {
-    public interface IForma
+    public interface IImprimivel
     {
-        void CalcularArea();
+        void Imprimir();
     }
 }
