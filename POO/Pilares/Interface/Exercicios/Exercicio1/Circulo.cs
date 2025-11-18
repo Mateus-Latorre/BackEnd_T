@@ -9,11 +9,12 @@ namespace Exercicio1
     {
         public void CalcularArea()
         {
+            Console.WriteLine($"Vamos Calcular a área do círculo.");
             double r;
             double a;
-            Console.WriteLine($"Digite o raio do círculo:");
+            Console.Write($"Digite o raio do círculo:");
             r = double.Parse(Console.ReadLine());
-            a = r * r * Math.PI;
+            a = r * r * 3.14;
             Console.WriteLine($"A área do círculo é de {a}");
         }
     }

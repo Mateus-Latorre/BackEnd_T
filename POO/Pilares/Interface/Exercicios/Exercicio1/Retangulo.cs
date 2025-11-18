@@ -9,12 +9,13 @@ namespace Exercicio1
     {
         public void CalcularArea()
         {
+            Console.WriteLine($"Vamos Calcular a área do retângulo.");
             double h;
             double l;
             double a;
-            Console.WriteLine($"Digite a altura do retângulo:");
+            Console.Write($"Digite a altura do retângulo:");
             h = double.Parse(Console.ReadLine());
-            Console.WriteLine($"Digite a largura do retângulo:");
+            Console.Write($"Digite a largura do retângulo:");
             l = double.Parse(Console.ReadLine());
             a = l * h;
             Console.WriteLine($"A área do retângulo é de {a}");
